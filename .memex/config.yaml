@@ -1,7 +1,14 @@
+git:
+  type: github
+  url: https://github.com/davidvgilmore/fractal-explorer.git
 project:
-  creator_id: test_user
-  description: ''
-  title: ''
+  creator_id: hansolo
+  description: Interactive Mandelbrot Set visualization with customizable parameters
+    and data storage
+  id: RdVyB2tp4Ou2nxDLl06x
+  slug: fractal-explorer-universe
+  title: Fractal Explorer Universe
 storage:
   compression_enabled: false
+  gcs_path: projects/fractal-explorer-universe/
   max_file_size_mb: 100
