@@ -1,0 +1,7 @@
+project:
+  creator_id: test_user
+  description: ''
+  title: ''
+storage:
+  compression_enabled: false
+  max_file_size_mb: 100
