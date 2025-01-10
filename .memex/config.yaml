@@ -1,7 +1,10 @@
 project:
-  creator_id: test_user
-  description: ''
-  title: ''
+  creator_id: hansolo
+  description: Interactive Mandelbrot Set visualization with customizable parameters
+  id: Y6dvgquU8pzj59wdxJ8P
+  slug: fractal-explorer
+  title: Fractal Explorer
 storage:
   compression_enabled: false
+  gcs_path: projects/fractal-explorer/
   max_file_size_mb: 100
